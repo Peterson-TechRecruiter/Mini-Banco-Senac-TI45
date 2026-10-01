@@ -1,5 +1,5 @@
 # Mini-Banco-Senac-TI45
-**Projeto de Mini Banco realizado nas aulas do curso Técnico em Informática no Senac São Carlos baseado no livro Think Java Ed 02.**
+**Projeto de Mini Banco realizado nas aulas do curso Técnico em Informática período noturno no Senac São Carlos baseado no livro Think Java Ed 02.**
 
 ## Funcionalidades
 -**cadastro de clientes**
